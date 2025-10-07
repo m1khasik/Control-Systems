@@ -38,11 +38,21 @@
 
 ## 📂 Структура проекта
 control-systems/
-├── backend/ # Серверная часть (Laravel / PHP)
-├── frontend/ # Клиентская часть (React + TypeScript)
-├── docs/ # Документация
-├── tests/ # Тестирование
-└── README.md # Описание проекта
+dist
+node_moduls
+src
+   components
+              Defects.vue
+              Login.vue
+              Projects.vue
+              Reports.vue
+   App.vue
+   main.js
+index.html
+package-lock.json
+package.json
+vite.config.json
+    
 
 ---
 
